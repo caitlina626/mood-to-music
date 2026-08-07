@@ -1,4 +1,5 @@
 .streamlit/secrets.toml
+mood_history.json
 mood_history_*.json
 __pycache__/
 *.pyc
